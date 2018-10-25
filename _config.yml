@@ -1,11 +1,11 @@
 # Site settings
 author: Talisa Erazo
-title: 
+title: A Journey to Coding
 header-img: img/home-bg.png
 email: talisaerazo@gmail.com
 copyright_name: Talisa Erazo
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My progress and learning journey at Flatiron School
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  talisae
